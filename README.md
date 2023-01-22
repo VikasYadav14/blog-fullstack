@@ -1,6 +1,10 @@
 In the project directory:
 first you have to open server directory:
+
 #### `cd Server`
+install modules by 
+#### npm i
+
 then start server by 
 ### `npm start`
 
