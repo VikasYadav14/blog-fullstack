@@ -14,6 +14,8 @@ Open [http://localhost:4000](http://localhost:4000) to start the backend server.
 after that,
 
 open new terminal:
+install modules by 
+#### npm i
 then start frontend by
 
 ### `npm start`
