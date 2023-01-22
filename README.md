@@ -1,6 +1,6 @@
 In the project directory:
 first you have to open server directory:
-## `cd Server`
+#### `cd Server`
 then start server by 
 ### `npm start`
 
