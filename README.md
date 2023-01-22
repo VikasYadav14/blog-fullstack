@@ -1,4 +1,4 @@
-In the project directory:
+In the project directory:\
 first you have to open server directory:
 
 #### `cd Server`
@@ -13,7 +13,7 @@ Open [http://localhost:4000](http://localhost:4000) to start the backend server.
 
 after that,
 
-open new terminal:
+open new terminal:\
 install modules by 
 #### npm i
 then start frontend by
